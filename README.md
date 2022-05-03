@@ -5,3 +5,4 @@ The weather becomes bad
 Storms are the worst
 Snow is white
 Snow is soft
+Snow may really not be that nice
