@@ -6,3 +6,5 @@ Storms are the worst
 Snow is white
 Snow is soft
 Snow may really not be that nice
+Lightning strikes
+Its loud and bright
